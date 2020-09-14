@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e4f61ab1-c440-431f-8af0-485b92a434da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../blog/resources/sass/layout/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blog/resources/views/layout/master.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blog/resources/views/layout/navbar.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blog/resources/views/layout/sidebar.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blog/resources/views/pages/about.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blog/resources/views/pages/category.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blog/resources/views/pages/contact.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blog/resources/views/post.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blog/resources/views/test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial-lesson-23.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/.styleci.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Console/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Exceptions/Handler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Http/Controllers/Auth/ConfirmPasswordController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Http/Controllers/Auth/ForgotPasswordController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Http/Controllers/Auth/LoginController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Http/Controllers/Auth/RegisterController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Http/Controllers/Auth/ResetPasswordController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Http/Controllers/Auth/VerificationController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Http/Controllers/Controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Http/Controllers/PizzaController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Http/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Http/Middleware/Authenticate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Http/Middleware/CheckForMaintenanceMode.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Http/Middleware/EncryptCookies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Http/Middleware/RedirectIfAuthenticated.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Http/Middleware/TrimStrings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Http/Middleware/TrustProxies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Pizza.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Providers/AuthServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Providers/BroadcastServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Providers/EventServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Providers/RouteServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/artisan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/bootstrap/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/bootstrap/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/config/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/config/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/config/broadcasting.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/config/cache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/config/database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/config/filesystems.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/config/hashing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/config/logging.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/config/mail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/config/queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/config/services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/config/session.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/config/view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/database/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/database/factories/UserFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/database/migrations/2014_10_12_100000_create_password_resets_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/database/migrations/2020_01_09_130612_create_pizzas_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/database/seeds/DatabaseSeeder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/phpunit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/public/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/public/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/public/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/public/img/pizza-house.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/public/img/pizza.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/public/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/public/mix-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/resources/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/resources/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/resources/lang/en/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/resources/lang/en/pagination.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/resources/lang/en/passwords.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/resources/lang/en/validation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/resources/sass/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/resources/sass/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/resources/views/layouts/layout.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/resources/views/pizzas/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/resources/views/pizzas/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/resources/views/pizzas/show.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/resources/views/welcome.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/routes/api.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/routes/channels.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/routes/console.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/routes/web.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/server.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/storage/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/storage/app/public/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/storage/framework/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/storage/framework/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/storage/framework/cache/data/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/storage/framework/sessions/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/storage/framework/testing/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/storage/framework/views/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/storage/logs/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/tests/CreatesApplication.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/tests/Feature/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/tests/TestCase.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/tests/Unit/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/webpack.mix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Console/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Exceptions/Handler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/ConfirmPasswordController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/ForgotPasswordController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/ResetPasswordController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/VerificationController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Middleware/Authenticate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Middleware/EncryptCookies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Middleware/TrimStrings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Middleware/TrustProxies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Models/Pizza.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Providers/BroadcastServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Providers/EventServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/broadcasting.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/cache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/filesystems.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/hashing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/logging.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/mail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/session.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/factories/UserFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_resets_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/migrations/2020_09_12_101615_create_pizzas_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mix-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/css/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/layout/layout.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/pizzas/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/pizzas/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/pizzas/show.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/channels.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/console.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/public/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/framework/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/framework/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/framework/cache/data/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/framework/sessions/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/framework/testing/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/framework/views/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/logs/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/CreatesApplication.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Feature/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/TestCase.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Unit/ExampleTest.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/pizzahouse/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1hSwmHfxN9D89UleU0rkGICgdED" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../basic-website" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Web\Server\htdocs\laravel\pizzahouse\resources\views\pizzas" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4f61ab1-c440-431f-8af0-485b92a434da" name="Default Changelist" comment="" />
+      <created>1600017958736</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600017958736</updated>
+      <workItem from="1600017959911" duration="1585000" />
+      <workItem from="1600019903269" duration="11908000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-774" y="207" key="FileChooserDialogImpl" timestamp="1600095323225">
+      <screen x="-1152" y="0" width="1152" height="824" />
+    </state>
+    <state x="-774" y="207" key="FileChooserDialogImpl/0.0.1366.728/-1152.0.1152.824@-1152.0.1152.824" timestamp="1600095323225" />
+    <state x="-860" y="-9" key="FileChooserDialogImpl/0.0.1366.728/-1280.-256.1280.984@-1280.-256.1280.984" timestamp="1600019900741" />
+    <state x="-823" y="150" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600018027333">
+      <screen x="-1280" y="-256" width="1280" height="984" />
+    </state>
+    <state x="-823" y="150" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/-1280.-256.1280.984@-1280.-256.1280.984" timestamp="1600018027333" />
+    <state x="-913" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1600094774017">
+      <screen x="-1152" y="0" width="1152" height="824" />
+    </state>
+    <state x="-913" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/-1152.0.1152.824@-1152.0.1152.824" timestamp="1600094774017" />
+  </component>
+</project>
